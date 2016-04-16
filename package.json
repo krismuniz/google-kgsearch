@@ -1,0 +1,24 @@
+{
+  "name": "google-kgsearch",
+  "version": "0.1.0",
+  "description": "A simple wrapper for Google's Knowledge Graph Search API",
+  "main": "lib/index.js",
+  "author": "Kristian Muñiz <kristian.muniz@upr.edu> (http://www.krismuniz.com)",
+  "dependencies": {
+    "request": "^2.71.0"
+  },
+  "keywords": [
+    "google",
+    "kgsearch",
+    "knowledge",
+    "graph",
+    "search",
+    "api",
+    "wrapper"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krismuniz/google-kgsearch/issues"
+  },
+  "homepage": "https://github.com/krismuniz/google-kgsearch#readme"
+}
