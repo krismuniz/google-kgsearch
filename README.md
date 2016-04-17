@@ -120,6 +120,7 @@ Method of `KGSearch(api_key)`
 | `callback` (required) | `function` | A function that handles the response data from the API
 
 `callback` takes two arguments:
+
 1. `err` (for error handling; `null` if there are no errors)
 2. `data` (the data returned by the API)
 
