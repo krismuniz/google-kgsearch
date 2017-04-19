@@ -1,6 +1,6 @@
 {
   "name": "google-kgsearch",
-  "version": "0.1.01",
+  "version": "0.1.2",
   "description": "A simple wrapper for Google's Knowledge Graph Search API",
   "main": "lib/index.js",
   "author": "Kristian Muñiz <kristian.muniz@upr.edu> (http://www.krismuniz.com)",
